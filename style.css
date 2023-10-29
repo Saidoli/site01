@@ -9,7 +9,7 @@
     height: 692PX;
     margin: 0px;
     padding: 0px;
-    background-image: url('59.jpg');
+    background-image: url('images/59.jpg');
     background-position: center;
 }
 
@@ -66,7 +66,7 @@
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
-    background-image: url('11.jpg');
+    background-image: url('images/11.jpg');
     background-position:center;
 }
 
@@ -85,7 +85,7 @@
 }
 .s_1:hover{
     .cen_blok1{
-        background-image: url('G.jpg');
+        background-image: url('images/G.jpg');
         background-position: center;
     }
 }
